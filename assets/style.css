@@ -1,0 +1,133 @@
+body {
+  margin: 50px;
+}
+
+.header__nav {
+  display: flex;
+  width: 50%;
+  justify-content: space-evenly;
+}
+
+.header__nav_a {
+  font-family: var(--third-family);
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 160%;
+  color: #5222d0;
+  padding: 10px;
+}
+
+.header__button_img {
+  border-radius: 100px;
+  width: 115px;
+  height: 38px;
+  background: #5222d0;
+  font-family: var(--second-family);
+  font-weight: 400;
+  font-size: 13px;
+  color: #fff;
+}
+.main__text_h1 {
+  font-size: 60px;
+  line-height: 120%;
+  color: #000;
+  text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.main__text_h2 {
+  font-family: var(--font-family);
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 160%;
+  color: #000;
+}
+.main__button {
+  border-radius: 100px;
+  width: 270px;
+  height: 84px;
+  background: #5222d0;
+  font-family: var(--second-family);
+  font-weight: 400;
+  font-size: 35px;
+  color: #fff;
+}
+
+.footer_a {
+  font-family: var(--font-family);
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 160%;
+  color: #5222d0;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.footer_ar {
+  font-family: var(--font-family);
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 160%;
+  color: #f8160f;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.main__item {
+  display: flex;
+  justify-content: space-around;
+}
+.main__item1 {
+  width: 365px;
+  margin: 20px;
+}
+.main__item1_img1 {
+  width: 365px;
+  height: 270px;
+}
+
+.main__item1_img2 {
+  width: 365px;
+  height: 278px;
+}
+.main__item1_img3 {
+  width: 365px;
+  height: 270px;
+}
+.main__item4 {
+  height: 233px;
+  background: #ec615b;
+  padding: 20px;
+}
+.main__item4_h2 {
+  font-size: 30px;
+  line-height: 120%;
+  color: #fff;
+}
+#email {
+  width: 323px;
+  height: 50px;
+}
+.main__item4_bt {
+  border-radius: 100px;
+  width: 135px;
+  height: 38px;
+  background: #5222d0;
+  font-family: var(--second-family);
+  font-weight: 400;
+  font-size: 13px;
+  color: #fff;
+  padding: 2px;
+  margin: 10px;
+}
+body {
+  border-radius: 10px;
+  width: 1440px;
+  height: 1311px;
+}
